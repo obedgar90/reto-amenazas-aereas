@@ -1,0 +1,17 @@
+# Datos (demasiado grandes para GitHub)
+datos/
+datos_preparados/
+
+# Resultados y modelos generados
+resultados/
+
+# Material del curso
+instrucciones.pdf
+
+# Entornos y temporales
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
