@@ -1,11 +1,12 @@
-# Datos (demasiado grandes para GitHub)
+# Datos (demasiado grandes para GitHub; se publican como release y el cuaderno los descarga)
 datos/
+datos.zip
 datos_preparados/
 
-# Resultados y modelos generados
+# Resultados y modelos generados al ejecutar el cuaderno
 resultados/
 
-# Material del curso
+# Material del curso (no se publica)
 instrucciones.pdf
 
 # Entornos y temporales
